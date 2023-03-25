@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+build
+icons
+icons-src
+package-lock.json

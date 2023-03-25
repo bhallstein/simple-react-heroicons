@@ -1,0 +1,10 @@
+{
+  "minify": true,
+  "jsc": {
+    "parser": {
+      "syntax": "ecmascript",
+      "jsx": true
+    },
+    "target": "es2018"
+  }
+}
